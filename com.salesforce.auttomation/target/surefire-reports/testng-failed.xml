@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [com.salesforce.tests.LoginTest]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="com.salesforce.tests.LoginTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="forgotpassword"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.salesforce.tests.LoginTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.salesforce.tests.LoginTest] -->

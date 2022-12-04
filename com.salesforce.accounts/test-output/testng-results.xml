@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-04T02:26:55Z" name="Default suite" finished-at="2022-12-04T02:27:50Z" duration-ms="55087">
+    <groups>
+    </groups>
+    <test started-at="2022-12-04T02:26:55Z" name="Default test" finished-at="2022-12-04T02:27:50Z" duration-ms="55087">
+      <class name="com.salesforce.tests.SfdcTestcases">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:26:55Z" name="beforeMethod" finished-at="2022-12-04T02:27:02Z" duration-ms="6233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="forgotpassword()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:02Z" name="forgotpassword" finished-at="2022-12-04T02:27:03Z" duration-ms="1343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:03Z" name="afterMethod" finished-at="2022-12-04T02:27:04Z" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:04Z" name="beforeMethod" finished-at="2022-12-04T02:27:10Z" duration-ms="5917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="forgotpasswordB()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:10Z" name="forgotpasswordB" finished-at="2022-12-04T02:27:17Z" duration-ms="7465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpasswordB -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:17Z" name="afterMethod" finished-at="2022-12-04T02:27:18Z" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:18Z" name="beforeMethod" finished-at="2022-12-04T02:27:24Z" duration-ms="6130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginFail()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:24Z" name="loginFail" finished-at="2022-12-04T02:27:25Z" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:25Z" name="afterMethod" finished-at="2022-12-04T02:27:25Z" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:25Z" name="beforeMethod" finished-at="2022-12-04T02:27:31Z" duration-ms="5848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginSuccess()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:31Z" name="loginSuccess" finished-at="2022-12-04T02:27:34Z" duration-ms="3000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccess -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:34Z" name="afterMethod" finished-at="2022-12-04T02:27:34Z" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:34Z" name="beforeMethod" finished-at="2022-12-04T02:27:42Z" duration-ms="7514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="remamberMe()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:42Z" name="remamberMe" finished-at="2022-12-04T02:27:50Z" duration-ms="7985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remamberMe -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.salesforce.tests.SfdcTestcases@548a24a]" started-at="2022-12-04T02:27:50Z" name="afterMethod" finished-at="2022-12-04T02:27:50Z" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.salesforce.tests.SfdcTestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
